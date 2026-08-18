@@ -15,6 +15,6 @@
 
 ---
 
-### ---> ABOUT ME
+-> ABOUT ME
 
 I am a mechanical engineering student at Universidad Nacional de Colombias. My main interests are materials science and applications, welding additive manufacturing and deep learning/computer vision aplications.
