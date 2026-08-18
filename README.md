@@ -8,7 +8,7 @@ Mechanical engineering student
 </a>
 
 <!---linkedin --->
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://www.linkedin.com/in/julio-cesar-fernandez-fereira-11a39341b/">
   <img src="https://img.shields.io/badge/LinkedIn-Tu_Nombre-0077b5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
