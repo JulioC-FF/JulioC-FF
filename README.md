@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-Julio Fernández-0077b5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
 ---
+
 ### ---> ABOUT ME
 
 I am a mechanical engineering student at Universidad Nacional de Colombias. My main interests are materials science and applications, welding additive manufacturing and deep learning/computer vision aplications.
