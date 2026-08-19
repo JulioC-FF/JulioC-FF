@@ -30,6 +30,6 @@ I am a mechanical engineering student at Universidad Nacional de Colombias. My m
 ---
 | Group/Organization | Role | Focus Area |
 | :--- | :--- | :--- |
-|**ARGES - Welding and NDT Research Group** |![Researcher](https://img.shields.io/badge/Role-Undergraduate_Researcher-blue)| NDT automatization, Material characterization, Equipment maintenance/modernization|
+|**[ARGES - Welding and NDT Research Group](http://www.hermes.unal.edu.co/pages/Consultas/Grupo.jsf?idGrupo=2184)** |Researcher| NDT automatization, Material characterization, Equipment maintenance/modernization|
 
 ---
