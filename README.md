@@ -28,7 +28,8 @@ I am a mechanical engineering student at Universidad Nacional de Colombias. My m
 
 -> RESEARCH
 ---
->[!NOTE]
->**[ARGES - Welding and NDT Research Group]** - Researcher
->NDT automatization via Deep Learning | Equipment maintenance/modernization | Pedagogic materials.
+| Group/Organization | Role | Focus Area |
+| :--- | :--- | :--- |
+|***ARGES - Welding and NDT Research Group | Researcher | NDT automatization, Material characterization, Equipment maintenance/modernization|
+
 ---
