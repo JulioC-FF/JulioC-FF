@@ -21,12 +21,14 @@
 I am a mechanical engineering student at Universidad Nacional de Colombias. My main interests are materials science and applications, welding additive manufacturing and deep learning/computer vision aplications.
 
 ---
--> PROYECTS
+-> PROJECTS
 ---
 
 ---
 
 -> RESEARCH
 ---
-
+>[!NOTE]
+>**[ARGES - Welding and NDT Research Group]** - Researcher
+>NDT automatization via Deep Learning | Equipment maintenance/modernization | Pedagogic materials.
 ---
